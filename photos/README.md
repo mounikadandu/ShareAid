@@ -2,7 +2,7 @@
 
 ShareAid/Photos is currently the most developed portion of the ShareAid project. The current implementation of the system takes in an Instagram account's photos and captions and a camera roll from Google Photos and recommends captioned photos from the camera roll "in the style of" the account.
 
-**Last updated 9 July 2018** If you just want to run a demo without making changes, you can download a frozen version of the code, with all setup already completed, by downloading and unzipping the `photodemo_09072018.zip` folder found [here](https://drive.google.com/open?id=1W-5_NmoYEG7owN7FYdV4EKNnaRlLbUUg). Once unzipped, all you should need to do is run `run_photos.sh`. The demo can take upwards of 10 minutes to complete. **Please do not edit this demo code - changes should instead be made to the actual Github repository instead.**
+**Last updated 9 July 2018** If you just want to run a demo without making changes, you can download a frozen version of the code, with all setup already completed, by downloading and unzipping the most recent file of the format photos_demo_mmddyyyy.zip found [here](https://drive.google.com/drive/folders/1CIrVZpYjRP6qdRLsJTiEn2mpTnwah_Wo). Once unzipped, all you should need to do is run `run_photos.sh`. The demo can take upwards of 10 minutes to complete. **Please do not edit this demo code - changes should instead be made to the actual Github repository instead.**
 
 ## Required Setup
 
